@@ -1,0 +1,28 @@
+body {
+    background: rgb(214, 223, 232)!important;
+
+
+}
+/* body {
+    background-color: #f5f6fa;
+  } */
+  
+  .container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Shadow for better UI */
+  }
+  
+.profile-img {
+  width: 41px !important;
+  height: 40px !important;
+  border-radius: 72%;
+  object-fit: cover;
+}
+/* .card {
+  width: 800;
+  height: 335;
+  border-radius: 12px;
+  border-width: 1px;
+} */
